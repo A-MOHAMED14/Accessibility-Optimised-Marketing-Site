@@ -1,3 +1,4 @@
+/* Global styles */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header styles */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +26,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Navigation styles */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* Main content styles */
 .hero {
     height: 800px;
     width: 100%;
@@ -188,6 +192,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer styles */
 .footer {
     padding: 30px;
     clear: both;
