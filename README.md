@@ -34,4 +34,4 @@ This repository contains the codebase for the website of a marketing agency, Hor
 
 ## View Project
 
-To view the deployed website, click here
+To visit the live website, <a href="https://a-mohamed14.github.io/Accessibility-Optimised-Marketing-Site/">click here</a>
