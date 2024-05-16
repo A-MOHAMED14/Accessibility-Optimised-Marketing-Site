@@ -26,8 +26,12 @@ This repository contains the codebase for the website of a marketing agency, Hor
 
 ## Code Image Preview
 
-![code preview snippet](./assests/images/code-preview.png)
+![code preview snippet](./assests/screenshots/code-preview.png)
 
 ## Website Image Preview
 
-![code preview snippet](./assests/images/code-preview.png)
+![website preview snippet](./assests/screenshots/code-preview.png)
+
+## View Project
+
+To view the deployed website, click here
