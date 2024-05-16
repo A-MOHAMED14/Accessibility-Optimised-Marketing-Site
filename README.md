@@ -7,3 +7,7 @@ Semantic HTML is used to organise content on a webpage by providing meaning and 
 Instead of using generic divs to layout content, semantic HTML introduces elements such as `<header>, <nav>, <section>, <article>, <aside>, <footer>` and so on. Each element has a specific semantic meaning.
 
 They not only help in organising content for better readability and maintainabilty but also provides valuable infomtion to search engines, accessibility tools, and other devices like screen readers, allowing them to understand the structure and purpose of different parts of the web page.
+
+## Introduction
+
+This repository contains the codebase for the website of a marketing agency, Horiseon. The goal of this project is to refactor the exisiting code - without changing the design and functionality of the web page - to ensure that the website meets accessibility standards and is optimised for search engines.
