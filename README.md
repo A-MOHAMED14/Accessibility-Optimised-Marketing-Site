@@ -23,3 +23,11 @@ This repository contains the codebase for the website of a marketing agency, Hor
 - Adjusted CSS selector classes to target the correct refactored HTML tags.
 
 - Condensed multiple class selectors in CSS to minimise duplication.
+
+## Code Image Preview
+
+![code preview snippet](./assests/images/code-preview.png)
+
+## Website Image Preview
+
+![code preview snippet](./assests/images/code-preview.png)
