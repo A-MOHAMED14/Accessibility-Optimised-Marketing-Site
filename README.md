@@ -8,11 +8,15 @@ Instead of using generic divs to layout content, semantic HTML introduces elemen
 
 They not only help in organising content for better readability and maintainabilty but also provides valuable infomtion to search engines, accessibility tools, and other devices like screen readers, allowing them to understand the structure and purpose of different parts of the web page.
 
-## Project Goal
+## Live Demo
+
+To visit the live website, <a href="https://a-mohamed14.github.io/Accessibility-Optimised-Marketing-Site/">click here</a>
+
+## Project Overview
 
 This repository contains the codebase for the website of a marketing agency, Horiseon. The goal of this project is to refactor the exisiting code - without changing the design and functionality of the web page - to ensure that the website meets accessibility standards and is optimised for search engines.
 
-## Completed Refactoring Tasks
+## Key Features And Accomplishments
 
 - Updated the title element to provide a concise and descriptive title, enhancing the overall user experience and search engine optimisation (SEO).
 
@@ -24,14 +28,10 @@ This repository contains the codebase for the website of a marketing agency, Hor
 
 - Condensed multiple class selectors in CSS to minimise duplication.
 
-## Code Image Preview
-
-![code preview snippet](./assets/screenshots/code-preview.png)
-
-## Website Image Preview
+## Website Preview
 
 ![website preview snippet](./assets/screenshots/website-preview.png)
 
-## View Final Project
+## Code Preview
 
-To visit the live website, <a href="https://a-mohamed14.github.io/Accessibility-Optimised-Marketing-Site/">click here</a>
+![code preview snippet](./assets/screenshots/code-preview.png)
