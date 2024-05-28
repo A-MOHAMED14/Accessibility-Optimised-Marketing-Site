@@ -18,15 +18,15 @@ This repository contains the codebase for the website of a marketing agency, Hor
 
 ## Key Features And Accomplishments
 
-- Updated the title element to provide a concise and descriptive title, enhancing the overall user experience and search engine optimisation (SEO).
+- Update the title element to provide a concise and descriptive title, enhancing the overall user experience and search engine optimisation (SEO).
 
-- Included semantic HTML elements such as `<header>, <nav>, <article> and <footer>` to improve accessibility and provide a clearer strucure.
+- Include semantic HTML elements such as `<header>, <nav>, <article> and <footer>` to improve accessibility and provide a clearer strucure.
 
-- Added alt attributes and figcaptions to all images and icons to ensure accessibilty for users with disabilities and improve SEO.
+- Add alt attributes and figcaptions to all images and icons to ensure accessibilty for users with disabilities and improve SEO.
 
-- Adjusted CSS selector classes to target the correct refactored HTML tags.
+- Adjust CSS selector classes to target the correct refactored HTML tags.
 
-- Condensed multiple class selectors in CSS to minimise duplication.
+- Condense multiple class selectors in CSS to minimise duplication.
 
 ## Website Preview
 
